@@ -1,0 +1,2 @@
+Bewegen Sie den Cursor vorwärts mittels C-f und nach oben mit C-p.
+Beobachten Sie, was C-p tut, wenn der Cursor sich der in Zeilenmitte befindet.
