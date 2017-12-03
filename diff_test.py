@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import diff_match_patch as dmp_module
 
 dmp = dmp_module.diff_match_patch()
